@@ -1,0 +1,5 @@
+local AntiFall = Instance.new("Part",game.Workspace)
+AntiFall.Name = "AntiFallPart"
+AntiFall.Size = Vector3.new(310, 1, 325)
+AntiFall.Position = Vector3.new(25, 145, -8)
+AntiFall.Anchored = true
